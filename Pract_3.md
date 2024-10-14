@@ -29,3 +29,7 @@
 ![image](https://github.com/user-attachments/assets/d9b400e2-8710-4092-a0ef-2dc44a54f099)
 
 Установка Wazuh-dashboard
+![image](https://github.com/user-attachments/assets/502ab696-57b4-4538-959d-d9e72ab6925f)
+
+![image](https://github.com/user-attachments/assets/98d1e89a-25cb-413a-bc5a-0fc78ef1e601)
+
