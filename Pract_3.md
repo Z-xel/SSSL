@@ -33,3 +33,9 @@
 
 ![image](https://github.com/user-attachments/assets/98d1e89a-25cb-413a-bc5a-0fc78ef1e601)
 
+Установка Wazuh-agent на клиенте
+![image](https://github.com/user-attachments/assets/526e8ca3-9dd4-42e5-b358-b639f7890a41)
+
+![image](https://github.com/user-attachments/assets/ddc56f53-1f4a-4697-ab3f-87bc2d4477a2)
+
+
