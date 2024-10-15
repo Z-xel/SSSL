@@ -61,7 +61,10 @@
 ![image](https://github.com/user-attachments/assets/86f99df6-ddb1-45f2-b4c4-559f7e6b58b2)
 
 Выявление SQL-инъекций
+![image](https://github.com/user-attachments/assets/430d30ea-550a-4d06-9c9b-4afea5dd2cda)
 
+![image](https://github.com/user-attachments/assets/613bcc7a-3200-446e-a135-20e5e0d7fa3c)
 
+![image](https://github.com/user-attachments/assets/109fb768-85af-4767-a2d1-46504745389a)
 
 
