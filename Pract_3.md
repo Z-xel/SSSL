@@ -40,3 +40,12 @@
 
 ![image](https://github.com/user-attachments/assets/2fa14fe9-1726-4441-9216-294d711b4c26)
 
+![image](https://github.com/user-attachments/assets/b22077f7-c1d0-47d7-8db7-30a4b0e76459)
+
+![image](https://github.com/user-attachments/assets/868a1826-8d27-4464-a37c-36c34186986a)
+
+![image](https://github.com/user-attachments/assets/f8891117-b451-4ec6-94f0-3caa5a42db10)
+
+Сканирование агента на уязвимости
+![image](https://github.com/user-attachments/assets/780482cf-90fb-446a-b81e-cff6a30483af)
+
