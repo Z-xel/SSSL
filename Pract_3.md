@@ -49,3 +49,12 @@
 Сканирование агента на уязвимости
 ![image](https://github.com/user-attachments/assets/780482cf-90fb-446a-b81e-cff6a30483af)
 
+Создание проверки целостности файлов
+![image](https://github.com/user-attachments/assets/be09b2de-4918-4d72-b08e-8864597d50c7)
+
+Настройка выявлений уязвимостей в соответсвии с документацией
+
+
+
+
+
