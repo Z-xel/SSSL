@@ -67,4 +67,16 @@
 
 ![image](https://github.com/user-attachments/assets/109fb768-85af-4767-a2d1-46504745389a)
 
+Проверка работы настроенных механизмов
+- фиксация установки apache 
+![image](https://github.com/user-attachments/assets/80e8577c-529e-4417-9dce-5d46510d165c)
+-реализация скрытых процессов через rootkit
+![image](https://github.com/user-attachments/assets/9e2aecf2-534c-4bd1-b1a2-19ed1869ecde)
+-итоговоые срабатывания
+![image](https://github.com/user-attachments/assets/0a918916-176d-4467-8d52-07e1c5be69e2)
+
+
+
+
+
 
