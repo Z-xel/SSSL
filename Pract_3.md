@@ -34,11 +34,7 @@
 ![image](https://github.com/user-attachments/assets/98d1e89a-25cb-413a-bc5a-0fc78ef1e601)
 
 Установка Wazuh-agent на клиенте
-![image](https://github.com/user-attachments/assets/526e8ca3-9dd4-42e5-b358-b639f7890a41)
-
 ![image](https://github.com/user-attachments/assets/ddc56f53-1f4a-4697-ab3f-87bc2d4477a2)
-
-![image](https://github.com/user-attachments/assets/2fa14fe9-1726-4441-9216-294d711b4c26)
 
 ![image](https://github.com/user-attachments/assets/b22077f7-c1d0-47d7-8db7-30a4b0e76459)
 
@@ -46,35 +42,35 @@
 
 ![image](https://github.com/user-attachments/assets/f8891117-b451-4ec6-94f0-3caa5a42db10)
 
-Сканирование агента на уязвимости
+### Шаг №4. Сканирование агента на уязвимости
 ![image](https://github.com/user-attachments/assets/780482cf-90fb-446a-b81e-cff6a30483af)
 
-Создание проверки целостности файлов
+### Шаг №5. Создание проверки целостности файлов
 ![image](https://github.com/user-attachments/assets/be09b2de-4918-4d72-b08e-8864597d50c7)
 
-Настройка выявлений уязвимостей в соответсвии с документацией
+### Шаг №6. Настройка выявлений уязвимостей в соответсвии с документацией
 ![image](https://github.com/user-attachments/assets/3341a346-70b7-40a4-ba7b-bcdd4954268d)
 
-Выявление скрытых процессов
+### Шаг №7.Выявление скрытых процессов
 ![image](https://github.com/user-attachments/assets/9338d148-6c81-4d6c-a3be-eec28227e245)
 
 ![image](https://github.com/user-attachments/assets/86f99df6-ddb1-45f2-b4c4-559f7e6b58b2)
 
-Выявление SQL-инъекций
+### Шаг №8.Выявление SQL-инъекций
 ![image](https://github.com/user-attachments/assets/430d30ea-550a-4d06-9c9b-4afea5dd2cda)
 
 ![image](https://github.com/user-attachments/assets/613bcc7a-3200-446e-a135-20e5e0d7fa3c)
 
 ![image](https://github.com/user-attachments/assets/109fb768-85af-4767-a2d1-46504745389a)
 
-Проверка работы настроенных механизмов
+### Шаг №9.Проверка работы настроенных механизмов
 - фиксация установки apache 
 ![image](https://github.com/user-attachments/assets/80e8577c-529e-4417-9dce-5d46510d165c)
 
--реализация скрытых процессов через rootkit
+- Реализация скрытых процессов через rootkit
 ![image](https://github.com/user-attachments/assets/9e2aecf2-534c-4bd1-b1a2-19ed1869ecde)
 
--итоговые срабатывания
+- Итоговые срабатывания
 ![image](https://github.com/user-attachments/assets/0a918916-176d-4467-8d52-07e1c5be69e2)
 
 
