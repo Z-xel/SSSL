@@ -53,7 +53,14 @@
 ![image](https://github.com/user-attachments/assets/be09b2de-4918-4d72-b08e-8864597d50c7)
 
 Настройка выявлений уязвимостей в соответсвии с документацией
+![image](https://github.com/user-attachments/assets/3341a346-70b7-40a4-ba7b-bcdd4954268d)
 
+Выявление скрытых процессов
+![image](https://github.com/user-attachments/assets/9338d148-6c81-4d6c-a3be-eec28227e245)
+
+![image](https://github.com/user-attachments/assets/86f99df6-ddb1-45f2-b4c4-559f7e6b58b2)
+
+Выявление SQL-инъекций
 
 
 
