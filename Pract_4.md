@@ -37,14 +37,17 @@
 
 Четвертая запись:
 ![image](https://github.com/user-attachments/assets/e0ed5a42-7144-4697-98ab-5604b7b33965)
+
 Windows patching - похожа на вторую запись, обе можно внести в safelist
 
 Пятая:
 ![image](https://github.com/user-attachments/assets/53b7f101-3b11-476f-b5b4-6fbfe2ae7f91)
+
 Аналогична предыдущей записи
 
 Шестая:
 ![image](https://github.com/user-attachments/assets/a3bce323-c4bf-40d8-8d86-7985d756860f)
+
 Аналогична предыдущей записи
 
 Вывод: 
@@ -58,6 +61,28 @@ Windows patching - похожа на вторую запись, обе можн�
 
 Итоговый safelist:
 ![image](https://github.com/user-attachments/assets/b504dd45-f617-44f0-8245-003199597901)
+
+Далее рассмотрим длительные подключения:
+![image](https://github.com/user-attachments/assets/e80bac84-9ca4-4a71-abe9-b88d3de75d17)
+
+Здесь есть 2 записи, длительностью почти 24 часа.
+Просмотрим первую через virustotal
+![image](https://github.com/user-attachments/assets/71ef2ec1-b259-49b5-9600-a14d7ba9ac71)
+![image](https://github.com/user-attachments/assets/87460a9d-d0a0-4718-bdfb-205880b1a59b)
+
+По данному адресу находится знакомая форма
+![image](https://github.com/user-attachments/assets/476dca4a-e6fa-468a-8322-b98f949da9f7)
+
+Просмотрим вторую через virustotal
+![image](https://github.com/user-attachments/assets/0e17dc81-1642-4eda-82d5-cbbebef6203c)
+Данная запись явно связана с microsoft
+
+
+
+
+
+
+
 
 
 
