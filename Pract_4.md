@@ -102,14 +102,38 @@ Windows patching - похожа на вторую запись, обе можн�
 - Поиск в Google "rmvk30g" возвращает "Fiesta EK"
 - Все остальные записи могут быть занесены в safelist
 
+## Часть 2.
 
+![image](https://github.com/user-attachments/assets/7eee1c8d-8f93-4999-9dad-0695bede3f2f)
 
+![image](https://github.com/user-attachments/assets/54a654a8-ff5d-4722-a937-45576eeb2e87)
 
+![image](https://github.com/user-attachments/assets/29dd5e90-0a77-4c23-9bfa-f2a2be2679ce)
 
+![image](https://github.com/user-attachments/assets/06de1b04-4256-445b-8370-103453321d44)
 
+Что видим:
+- В списке нет отдельных IP-адресов
+- Проверка в левом верхнем углу экрана указывает на необходимость проверки модуля DNS
+- Имя хоста состоит из шестнадцатеричных символов
+- Потенциальный C2 через DNS
 
+## Часть 3.
 
+![image](https://github.com/user-attachments/assets/58dc89aa-87fa-49aa-938f-935d6dd65c91)
 
+![image](https://github.com/user-attachments/assets/c14134b6-ea4b-4876-87ce-b0ea7892cfd1)
+
+Это не совсем домен Skype
+Пользовательский агент - это "Internet Explorer". Недопустимый пользовательский агент.
+
+![image](https://github.com/user-attachments/assets/a61073c4-c915-4d58-bca7-93fe8bf52f9e)
+
+![image](https://github.com/user-attachments/assets/ad074773-1de1-499e-9e63-5af609bbef37)
+
+Время выдержки соединения колеблется, просмотрим эту запись через virustotal
+
+![image](https://github.com/user-attachments/assets/b4ce7fee-6d30-4601-bd61-a16b7e4eca51)
 
 
 
