@@ -54,6 +54,10 @@ Windows patching - похожа на вторую запись, обе можн�
     Windows desktop tile services
 - Внесем эти последние 5 записей в safelist
 
+![image](https://github.com/user-attachments/assets/5b48ff87-fc98-49ed-a5a4-150b315b0407)
+
+Итоговый safelist:
+![image](https://github.com/user-attachments/assets/b504dd45-f617-44f0-8245-003199597901)
 
 
 
