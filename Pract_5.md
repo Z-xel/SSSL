@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/d15fe076-00e9-4d0e-b51b-b7a5726791e3)
 ## Вторая ВМ
 Был развернут Wazuh
-![изображение](https://github.com/user-attachments/assets/8b9b3c21-63b2-424b-93f9-c36e0709462c)
+![image](https://github.com/user-attachments/assets/5dc8ded0-80c2-4288-a485-f71c4461ef71)
 ![изображение](https://github.com/user-attachments/assets/bfd0f68b-4742-45f2-b274-f1c9fad4ea38)
 Также установлен сканер уязвимостей Nessus, запущенная задача сканирования:
 ![изображение](https://github.com/user-attachments/assets/1baaa72a-9b8f-48d4-94bf-7de719d2ad26)
