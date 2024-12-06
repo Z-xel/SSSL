@@ -1,14 +1,14 @@
 # Практика №5
 ## Инфраструктура
 Для выполнения работы были развернуты несколько виртуальных машин:
-- ВМ с уязвимым приложением ![изображение](https://github.com/user-attachments/assets/59867b3d-a4f0-4484-b2b6-5326058e1907)
+- ВМ с уязвимым приложением ![image](https://github.com/user-attachments/assets/3e910e98-299c-4fb8-8d0f-4087e67965f5)
 - ВМ для проведения атак и сканирования
 
 ## Уязвимое приложение
 Для проверки на уязвимости было поднято приложение OWASP Juice Shop, на котором можно удобно отработать все атаки
 ![изображение](https://github.com/user-attachments/assets/027b5123-3b95-4ad4-9463-33dbb11db783)
 Также на нем запущен Suricata с настроенными правилами на различные сетевые атаки
-![изображение](https://github.com/user-attachments/assets/64d4719c-ad82-44d8-b3a4-03c18236de92)
+![image](https://github.com/user-attachments/assets/d15fe076-00e9-4d0e-b51b-b7a5726791e3)
 ## Вторая ВМ
 Был развернут Wazuh
 ![изображение](https://github.com/user-attachments/assets/8b9b3c21-63b2-424b-93f9-c36e0709462c)
@@ -16,7 +16,7 @@
 Также установлен сканер уязвимостей Nessus, запущенная задача сканирования:
 ![изображение](https://github.com/user-attachments/assets/1baaa72a-9b8f-48d4-94bf-7de719d2ad26)
 Запущен скан через Yara с помощью набора правил для поиска web угроз:
-![изображение](https://github.com/user-attachments/assets/9893c3ba-bb54-4b13-8107-725246e82960)
+![image](https://github.com/user-attachments/assets/df564251-025d-4944-ae6e-b475d7973778)
 В выборку Suricata попалась атака SQL Injection:
-![изображение](https://github.com/user-attachments/assets/ccbca492-6039-4548-9855-9dca7a96fb45)
+![image](https://github.com/user-attachments/assets/7e53280c-dbaa-4973-a8ce-ee3cdb281aa8)
 Для предотвращения атаки необходимо как минимум настроить экранирование специальных символов и проверить бизнес логику приложения.
