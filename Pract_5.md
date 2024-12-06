@@ -13,8 +13,7 @@
 Был развернут Wazuh
 ![image](https://github.com/user-attachments/assets/5dc8ded0-80c2-4288-a485-f71c4461ef71)
 ![image](https://github.com/user-attachments/assets/ee1a1c73-9c00-49cb-acd0-7be5b64d79bd)
-Также установлен сканер уязвимостей Nessus, запущенная задача сканирования:
-![изображение](https://github.com/user-attachments/assets/1baaa72a-9b8f-48d4-94bf-7de719d2ad26)
+
 Запущен скан через Yara с помощью набора правил для поиска web угроз:
 ![image](https://github.com/user-attachments/assets/df564251-025d-4944-ae6e-b475d7973778)
 В выборку Suricata попалась атака SQL Injection:
