@@ -18,5 +18,5 @@
 Запущен скан через Yara с помощью набора правил для поиска web угроз:
 ![image](https://github.com/user-attachments/assets/df564251-025d-4944-ae6e-b475d7973778)
 В выборку Suricata попалась атака SQL Injection:
-![image](https://github.com/user-attachments/assets/7e53280c-dbaa-4973-a8ce-ee3cdb281aa8)
+![image](https://github.com/user-attachments/assets/e7b46028-a962-44c9-a5cb-039ac239ba7a)
 Для предотвращения атаки необходимо как минимум настроить экранирование специальных символов и проверить бизнес логику приложения.
