@@ -6,7 +6,7 @@
 
 ## Уязвимое приложение
 Для проверки на уязвимости было поднято приложение OWASP Juice Shop, на котором можно удобно отработать все атаки
-![изображение](https://github.com/user-attachments/assets/027b5123-3b95-4ad4-9463-33dbb11db783)
+![image](https://github.com/user-attachments/assets/f7534673-32fb-4dc3-b2b9-e37e84e8d567)
 Также на нем запущен Suricata с настроенными правилами на различные сетевые атаки
 ![image](https://github.com/user-attachments/assets/d15fe076-00e9-4d0e-b51b-b7a5726791e3)
 ## Вторая ВМ
